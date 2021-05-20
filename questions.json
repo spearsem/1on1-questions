@@ -1016,7 +1016,7 @@
   },
   {
     "id": 468,
-    "question": "How do you think of your current workload and how are you managin it?",
+    "question": "How do you think of your current workload and how are you managing it?",
     "category": "Job satisfaction",
     "created_at": "2017-11-18T14:26:14.782Z",
     "updated_at": "2017-11-18T14:26:14.782Z"
@@ -1072,7 +1072,7 @@
   },
   {
     "id": 476,
-    "question": "How do you think that least favorite thing affects your overall performance?",
+    "question": "How do you think your least favorite thing about your role affects your overall performance?",
     "category": "Job satisfaction",
     "created_at": "2017-11-18T14:26:14.837Z",
     "updated_at": "2017-11-18T14:26:14.837Z"
@@ -1121,28 +1121,28 @@
   },
   {
     "id": 483,
-    "question": "How are you feeling about the project?",
+    "question": "How are you feeling about your projects?",
     "category": "Job satisfaction",
     "created_at": "2017-11-18T14:26:14.884Z",
     "updated_at": "2017-11-18T14:26:14.884Z"
   },
   {
     "id": 484,
-    "question": "What aspect of this project has been particularly interesting for you?",
+    "question": "What aspect of your projects has been particularly interesting for you?",
     "category": "Job satisfaction",
     "created_at": "2017-11-18T14:26:14.898Z",
     "updated_at": "2017-11-18T14:26:14.898Z"
   },
   {
     "id": 485,
-    "question": "What do you feel like you're learning from this project?",
+    "question": "What do you feel like you're learning from your projects?",
     "category": "Job satisfaction",
     "created_at": "2017-11-18T14:26:14.901Z",
     "updated_at": "2017-11-18T14:26:14.901Z"
   },
   {
     "id": 486,
-    "question": "What frustrates you about the project?",
+    "question": "What frustrates you about your projects?",
     "category": "Job satisfaction",
     "created_at": "2017-11-18T14:26:14.904Z",
     "updated_at": "2017-11-18T14:26:14.904Z"
@@ -1170,21 +1170,21 @@
   },
   {
     "id": 490,
-    "question": "I\u2019ve noticed X about the project\u2026 Can you help me understand that better? Talk me through your process.",
+    "question": "I\u2019ve noticed X about your project\u2026 Can you help me understand that better? Talk me through your process.",
     "category": "Job satisfaction",
     "created_at": "2017-11-18T14:26:14.926Z",
     "updated_at": "2017-11-18T14:26:14.926Z"
   },
   {
     "id": 491,
-    "question": "Which parts of your project are unclear or confusing?",
+    "question": "Which parts of your projects are unclear or confusing?",
     "category": "Job satisfaction",
     "created_at": "2017-11-18T14:26:14.938Z",
     "updated_at": "2017-11-18T14:26:14.938Z"
   },
   {
     "id": 492,
-    "question": "What was that experience like for you?",
+    "question": "What was your most recent project experience like for you?",
     "category": "Job satisfaction",
     "created_at": "2017-11-18T14:26:14.941Z",
     "updated_at": "2017-11-18T14:26:14.941Z"
@@ -1198,28 +1198,28 @@
   },
   {
     "id": 494,
-    "question": "How did that affect you?",
+    "question": "How did your most recent project experience affect you?",
     "category": "Job satisfaction",
     "created_at": "2017-11-18T14:26:14.955Z",
     "updated_at": "2017-11-18T14:26:14.955Z"
   },
   {
     "id": 495,
-    "question": "How did that make you feel?",
+    "question": "How did your most recent project experience make you feel?",
     "category": "Job satisfaction",
     "created_at": "2017-11-18T14:26:14.957Z",
     "updated_at": "2017-11-18T14:26:14.957Z"
   },
   {
     "id": 496,
-    "question": "If you could change what happened, how would you alter it?",
+    "question": "If you could change what happened on a project, how would you alter it?",
     "category": "Job satisfaction",
     "created_at": "2017-11-18T14:26:14.960Z",
     "updated_at": "2017-11-18T14:26:14.960Z"
   },
   {
     "id": 497,
-    "question": "What do you think caused that to happen?",
+    "question": "What do you think are some causes for challenging project experiences here?",
     "category": "Job satisfaction",
     "created_at": "2017-11-18T14:26:14.962Z",
     "updated_at": "2017-11-18T14:26:14.962Z"
@@ -1233,35 +1233,28 @@
   },
   {
     "id": 499,
-    "question": "What would be the most helpful thing for you to take away from this conversation in order to make progress on it?",
+    "question": "What would be the most helpful thing for you to take away from this conversation in order to make progress?",
     "category": "Job satisfaction",
     "created_at": "2017-11-18T14:26:14.977Z",
     "updated_at": "2017-11-18T14:26:14.977Z"
   },
   {
-    "id": 500,
-    "question": "What have you tried so far to make progress on it?",
-    "category": "Job satisfaction",
-    "created_at": "2017-11-18T14:26:14.980Z",
-    "updated_at": "2017-11-18T14:26:14.980Z"
-  },
-  {
     "id": 501,
-    "question": "In our last 1-on-1 you mentioned that you\u2019d like to grow in X \u2014 how has that been going?",
+    "question": "You previously mentioned that you\u2019d like to grow in X \u2014 how has that been going?",
     "category": "Job satisfaction",
     "created_at": "2017-11-18T14:26:14.991Z",
     "updated_at": "2017-11-18T14:26:14.991Z"
   },
   {
     "id": 502,
-    "question": "In our last 1-on-1 you mentioned you were frustrated by X and wanted to try Y as a solution. How has that been going?",
+    "question": "You previously mentioned you were frustrated by X and wanted to try Y as a solution. How has that been going?",
     "category": "Job satisfaction",
     "created_at": "2017-11-18T14:26:14.993Z",
     "updated_at": "2017-11-18T14:26:14.993Z"
   },
   {
     "id": 503,
-    "question": "Can you name three things we can do to help so you can enjoy your job more?What is the best accomplishment you had since you are here? Do you feel appreciated for it?",
+    "question": "What is the best accomplishment you had since you have been here? Do you feel appreciated for it?",
     "category": "Job satisfaction",
     "created_at": "2017-11-18T14:26:14.996Z",
     "updated_at": "2017-11-18T14:26:14.996Z"
@@ -1303,7 +1296,7 @@
   },
   {
     "id": 509,
-    "question": "What\u2019s one thing we could change about work for you that would improve your personal life?",
+    "question": "What\u2019s one thing we could change about work for you that would improve your work life balance?",
     "category": "Other",
     "created_at": "2017-11-18T14:26:15.031Z",
     "updated_at": "2017-11-18T14:26:15.031Z"
@@ -1330,13 +1323,6 @@
     "updated_at": "2017-11-18T14:26:15.048Z"
   },
   {
-    "id": 513,
-    "question": "What questions do you have about the project?",
-    "category": "Other",
-    "created_at": "2017-11-18T14:26:15.060Z",
-    "updated_at": "2017-11-18T14:26:15.060Z"
-  },
-  {
     "id": 514,
     "question": "What ideas can you bring in from past successes?",
     "category": "Other",
@@ -1349,13 +1335,6 @@
     "category": "Other",
     "created_at": "2017-11-18T14:26:15.065Z",
     "updated_at": "2017-11-18T14:26:15.065Z"
-  },
-  {
-    "id": 516,
-    "question": "What would you be doing right now if we weren\u2019t having this meeting? How do you feel about being taken away from that task?",
-    "category": "Other",
-    "created_at": "2017-11-18T14:26:15.067Z",
-    "updated_at": "2017-11-18T14:26:15.067Z"
   },
   {
     "id": 517,
@@ -1401,14 +1380,14 @@
   },
   {
     "id": 523,
-    "question": "What is the company not doing today that we should do to better compete in the market?",
+    "question": "What is the company not doing today that we should do to better to compete in the market?",
     "category": "Team and company",
     "created_at": "2017-11-18T14:26:15.107Z",
     "updated_at": "2017-11-18T14:26:15.107Z"
   },
   {
     "id": 524,
-    "question": "What\u2019s one thing we\u2019d be *crazy* not to do in the next quarter to improve our product?",
+    "question": "What\u2019s one thing we\u2019d be crazy not to do in the next quarter to improve our product?",
     "category": "Team and company",
     "created_at": "2017-11-18T14:26:15.119Z",
     "updated_at": "2017-11-18T14:26:15.119Z"
@@ -1468,13 +1447,6 @@
     "category": "Team and company",
     "created_at": "2017-11-18T14:26:15.158Z",
     "updated_at": "2017-11-18T14:26:15.158Z"
-  },
-  {
-    "id": 533,
-    "question": "Why do you think [employee who recently quit] left? What did they tell you?",
-    "category": "Team and company",
-    "created_at": "2017-11-18T14:26:15.169Z",
-    "updated_at": "2017-11-18T14:26:15.169Z"
   },
   {
     "id": 534,
@@ -1548,7 +1520,7 @@
   },
   {
     "id": 544,
-    "question": "Who are you friends with at work? (Shown to be a key to enjoying your job)",
+    "question": "Who are you friends with at work?",
     "category": "Team and company",
     "created_at": "2017-11-18T14:26:15.231Z",
     "updated_at": "2017-11-18T14:26:15.231Z"
@@ -1632,7 +1604,7 @@
   },
   {
     "id": 560,
-    "question": "What\u2019s the No. 1 problem with our organization, and what do you think's causing it?",
+    "question": "What\u2019s the No. 1 problem with our organization, and what do you think is causing it?",
     "category": "Team and company",
     "created_at": "2017-11-18T14:26:15.323Z",
     "updated_at": "2017-11-18T14:26:15.323Z"
@@ -1667,7 +1639,7 @@
   },
   {
     "id": 565,
-    "question": "How would you say we're doing at working together as team? What makes you say that?",
+    "question": "How would you say we're doing at working together as a team? What makes you say that?",
     "category": "Team and company",
     "created_at": "2017-11-18T14:26:15.356Z",
     "updated_at": "2017-11-18T14:26:15.356Z"
@@ -1702,35 +1674,35 @@
   },
   {
     "id": 571,
-    "question": "How are you feeling about the recent news? Why do you say that?",
+    "question": "How are you feeling about any recent news? Why do you say that?",
     "category": "Team and company",
     "created_at": "2017-11-18T14:26:15.394Z",
     "updated_at": "2017-11-18T14:26:15.394Z"
   },
   {
     "id": 572,
-    "question": "What concerns do you have about the change that haven't been addressed?",
+    "question": "What concerns do you have about any recent changes that haven't been addressed?",
     "category": "Team and company",
     "created_at": "2017-11-18T14:26:15.396Z",
     "updated_at": "2017-11-18T14:26:15.396Z"
   },
   {
     "id": 573,
-    "question": "What\u2019s going well and not so well with the new situation\/development? Why do you think this might be happening?",
+    "question": "What\u2019s going well and not so well with the team situation\/development? Why do you think this might be happening?",
     "category": "Team and company",
     "created_at": "2017-11-18T14:26:15.399Z",
     "updated_at": "2017-11-18T14:26:15.399Z"
   },
   {
     "id": 574,
-    "question": "Do you have a clear understanding of the new goals and expectations? What makes you say that?",
+    "question": "Do you have a clear understanding of goals and expectations? What makes you say that?",
     "category": "Team and company",
     "created_at": "2017-11-18T14:26:15.410Z",
     "updated_at": "2017-11-18T14:26:15.410Z"
   },
   {
     "id": 575,
-    "question": "How is the new situation\/development affecting your work? What could be getting in the way of your being effective?",
+    "question": "How is the team situation\/development affecting your work? What could be getting in the way of your being effective?",
     "category": "Team and company",
     "created_at": "2017-11-18T14:26:15.413Z",
     "updated_at": "2017-11-18T14:26:15.413Z"
@@ -1743,20 +1715,6 @@
     "updated_at": "2017-11-18T14:26:15.416Z"
   },
   {
-    "id": 577,
-    "question": "Could you tell me a little more about that?",
-    "category": "Team and company",
-    "created_at": "2017-11-18T14:26:15.428Z",
-    "updated_at": "2017-11-18T14:26:15.428Z"
-  },
-  {
-    "id": 578,
-    "question": "Can you share some of the details around that particular issue? (Who was involved? Where? When? For how long?)",
-    "category": "Team and company",
-    "created_at": "2017-11-18T14:26:15.431Z",
-    "updated_at": "2017-11-18T14:26:15.431Z"
-  },
-  {
     "id": 579,
     "question": "What are some possible ways to get the solution you need?",
     "category": "Team and company",
@@ -1765,7 +1723,7 @@
   },
   {
     "id": 580,
-    "question": "What additional resources from me would be helpful for you as you solve this problem?",
+    "question": "What additional resources from me would be helpful for you as you solve your current problems?",
     "category": "Team and company",
     "created_at": "2017-11-18T14:26:15.446Z",
     "updated_at": "2017-11-18T14:26:15.446Z"
@@ -1786,7 +1744,7 @@
   },
   {
     "id": 583,
-    "question": "Who inspire you in the team? Whose opinions do you respect? What have they done?",
+    "question": "Who inspires you in the team? Whose opinions do you respect? What have they done?",
     "category": "Team and company",
     "created_at": "2017-11-18T14:26:15.454Z",
     "updated_at": "2017-11-18T14:26:15.454Z"
@@ -1800,7 +1758,7 @@
   },
   {
     "id": 585,
-    "question": "What do you think about the amount of feedback in our team? When do others give feedback to you? Would you like to hear more feedback from other team member and me?",
+    "question": "What do you think about the amount of feedback in our team? When do others give feedback to you? Would you like to hear more feedback from other team members and me?",
     "category": "Team and company",
     "created_at": "2017-11-18T14:26:15.468Z",
     "updated_at": "2017-11-18T14:26:15.468Z"
@@ -1814,7 +1772,7 @@
   },
   {
     "id": 587,
-    "question": "Whom in the team do you want to learn from? Whom do you get valuable feedback from?",
+    "question": "Who in the team do you want to learn from? Who do you get valuable feedback from?",
     "category": "Team and company",
     "created_at": "2017-11-18T14:26:15.483Z",
     "updated_at": "2017-11-18T14:26:15.483Z"
@@ -1832,13 +1790,6 @@
     "category": "Team and company",
     "created_at": "2017-11-18T14:26:15.498Z",
     "updated_at": "2017-11-18T14:26:15.498Z"
-  },
-  {
-    "id": 590,
-    "question": "What do you think about _________?",
-    "category": "Team and company",
-    "created_at": "2017-11-18T14:26:15.501Z",
-    "updated_at": "2017-11-18T14:26:15.501Z"
   },
   {
     "id": 591,
@@ -1975,17 +1926,10 @@
   },
   {
     "id": 611,
-    "question": "What questions do you have about this project?",
+    "question": "What questions do you have about a project?",
     "category": "Work-life",
     "created_at": "2017-11-18T14:26:15.626Z",
     "updated_at": "2017-11-18T14:26:15.626Z"
-  },
-  {
-    "id": 612,
-    "question": "How are you going to approach this?",
-    "category": "Work-life",
-    "created_at": "2017-11-18T14:26:15.630Z",
-    "updated_at": "2017-11-18T14:26:15.630Z"
   },
   {
     "id": 613,
@@ -2045,7 +1989,7 @@
   },
   {
     "id": 622,
-    "question": "Which part of the day do you feel most productive? When do you feel that your energy and focus are at the lowest level? What are the changes that can be made so you can take the best out of a work day?",
+    "question": "Which part of the day do you feel most productive? When do you feel that your energy and focus are at the lowest level? What changes can be made so you can make the best out of a work day?",
     "category": "Work-life",
     "created_at": "2017-11-18T14:26:15.682Z",
     "updated_at": "2017-11-18T14:26:15.682Z"
@@ -2066,24 +2010,17 @@
   },
   {
     "id": 625,
-    "question": "What was difficult this week? what have you learned?",
+    "question": "What was difficult this week? What have you learned?",
     "category": "Work-life",
     "created_at": "2017-11-18T14:26:15.700Z",
     "updated_at": "2017-11-18T14:26:15.700Z"
   },
   {
     "id": 626,
-    "question": "When was your last vacation? ",
+    "question": "When was your last vacation? When is your next one?",
     "category": "Work-life",
     "created_at": "2017-11-18T14:26:15.711Z",
     "updated_at": "2017-11-18T14:26:15.711Z"
-  },
-  {
-    "id": 627,
-    "question": "When is your next vacation?",
-    "category": "Work-life",
-    "created_at": "2017-11-18T14:26:15.714Z",
-    "updated_at": "2017-11-18T14:26:15.714Z"
   },
   {
     "id": 628,
@@ -2147,13 +2084,6 @@
     "category": "Work-life",
     "created_at": "2017-11-18T14:26:15.764Z",
     "updated_at": "2017-11-18T14:26:15.764Z"
-  },
-  {
-    "id": 637,
-    "question": "How can I help\u2026? (be more productive\/happier at work\/enjoy work more\/etc)",
-    "category": "Work-life",
-    "created_at": "2017-11-18T14:26:15.767Z",
-    "updated_at": "2017-11-18T14:26:15.767Z"
   },
   {
     "id": 638,
