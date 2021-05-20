@@ -134,14 +134,14 @@
   },
   {
     "id": 325,
-    "question": "How might I make this project more challenging or interesting for you?",
+    "question": "How might I make your project more challenging or interesting for you?",
     "category": "About Manager",
     "created_at": "2017-11-18T14:26:13.971Z",
     "updated_at": "2017-11-18T14:26:13.971Z"
   },
   {
     "id": 326,
-    "question": "What do you think I should know about the project, but might not?",
+    "question": "What do you think I should know about one of your projects, but might not?",
     "category": "About Manager",
     "created_at": "2017-11-18T14:26:13.976Z",
     "updated_at": "2017-11-18T14:26:13.976Z"
@@ -225,7 +225,7 @@
   },
   {
     "id": 339,
-    "question": "Would you like more coaching? What aspect of your job do you like more help and coaching on?",
+    "question": "Would you like more coaching? What aspect of your job do you want more help and coaching on?",
     "category": "About Manager",
     "created_at": "2017-11-18T14:26:14.051Z",
     "updated_at": "2017-11-18T14:26:14.051Z"
@@ -316,7 +316,7 @@
   },
   {
     "id": 357,
-    "question": "What do you want to be doing in 5 years? 10 years? 3 years?",
+    "question": "What do you want to be doing in 3 years? 5 years? 10 years?",
     "category": "Career development",
     "created_at": "2017-11-18T14:26:14.152Z",
     "updated_at": "2017-11-18T14:26:14.152Z"
@@ -337,7 +337,7 @@
   },
   {
     "id": 360,
-    "question": "What do you want to do in your next job?",
+    "question": "What do you want to do in your next role?",
     "category": "Career development",
     "created_at": "2017-11-18T14:26:14.171Z",
     "updated_at": "2017-11-18T14:26:14.171Z"
@@ -519,14 +519,14 @@
   },
   {
     "id": 387,
-    "question": "To help identify and clarify the goal: What do you want to achieve? What will you do to achieve it? When will you do it? Who do you need to involve? When should you see results?",
+    "question": "What do you want to achieve? What will you do to achieve it? When will you do it? Who do you need to involve? When should you see results?",
     "category": "Career development",
     "created_at": "2017-11-18T14:26:14.328Z",
     "updated_at": "2017-11-18T14:26:14.328Z"
   },
   {
     "id": 388,
-    "question": "What about this goal is important to you and what will be different when you achieve the goal?",
+    "question": "What about your main goal is important to you and what will be different when you achieve the goal?",
     "category": "Career development",
     "created_at": "2017-11-18T14:26:14.331Z",
     "updated_at": "2017-11-18T14:26:14.331Z"
@@ -547,7 +547,7 @@
   },
   {
     "id": 391,
-    "question": "What actions will you take before our next 1-on-1 to make progress on X? (Also discuss and agree on actions you will take to help.)",
+    "question": "What actions will you take before our next 1-on-1 to make progress?",
     "category": "Career development",
     "created_at": "2017-11-18T14:26:14.348Z",
     "updated_at": "2017-11-18T14:26:14.348Z"
@@ -582,7 +582,7 @@
   },
   {
     "id": 397,
-    "question": "Which part of the work here do you feel as most relevant to your long-term goals? What kinds of projects do you want to take part in to move toward your goals?",
+    "question": "Which part of the work here do you feel is most relevant to your long-term goals? What kinds of projects do you want to take part in to move toward your goals?",
     "category": "Career development",
     "created_at": "2017-11-18T14:26:14.392Z",
     "updated_at": "2017-11-18T14:26:14.392Z"
@@ -610,14 +610,14 @@
   },
   {
     "id": 401,
-    "question": "Where do you see your career in 1 year, 3 years? What can you do to make sure you reach those goals? How can we as HR help you to reach those goals (assuming the goals relate to the company)?",
+    "question": "Where do you see your career in 1 year, 3 years? What can you do to make sure you reach those goals? How can we help you to reach those goals?",
     "category": "Career development",
     "created_at": "2017-11-18T14:26:14.411Z",
     "updated_at": "2017-11-18T14:26:14.411Z"
   },
   {
     "id": 402,
-    "question": "Is there a different way we can develop your skills   outside of traditional training?",
+    "question": "Is there a different way we can develop your skills outside of traditional training?",
     "category": "Career development",
     "created_at": "2017-11-18T14:26:14.413Z",
     "updated_at": "2017-11-18T14:26:14.413Z"
@@ -729,7 +729,7 @@
   },
   {
     "id": 418,
-    "question": "What are your goals (for our group for you personally)",
+    "question": "What are your goals (for our group or for you personally)",
     "category": "Career development",
     "created_at": "2017-11-18T14:26:14.510Z",
     "updated_at": "2017-11-18T14:26:14.510Z"
@@ -750,21 +750,21 @@
   },
   {
     "id": 421,
-    "question": "If around a holiday: Do you celebrate [Holiday]? If so, can I ask what are you plans?",
+    "question": "Do you celebrate [Holiday]? If so, what are your plans?",
     "category": "Conversation starters",
     "created_at": "2017-11-18T14:26:14.529Z",
     "updated_at": "2017-11-18T14:26:14.529Z"
   },
   {
     "id": 422,
-    "question": "How are your parents\/grandparents? Where do they live? Do you visit them?",
+    "question": "How are your parents\/grandparents? Do you visit them?",
     "category": "Conversation starters",
     "created_at": "2017-11-18T14:26:14.531Z",
     "updated_at": "2017-11-18T14:26:14.531Z"
   },
   {
     "id": 423,
-    "question": "If they have children: How is [name of child] doing? (Ask something related to their age like starting school, playing sports, or other interests.)",
+    "question": "How is your family doing?",
     "category": "Conversation starters",
     "created_at": "2017-11-18T14:26:14.533Z",
     "updated_at": "2017-11-18T14:26:14.533Z"
@@ -778,7 +778,7 @@
   },
   {
     "id": 425,
-    "question": "Who do you really admire? Why? (People often admire those they want to become)",
+    "question": "Who do you really admire? Why?",
     "category": "Conversation starters",
     "created_at": "2017-11-18T14:26:14.547Z",
     "updated_at": "2017-11-18T14:26:14.547Z"
@@ -799,56 +799,21 @@
   },
   {
     "id": 428,
-    "question": "Tell me about your family\/weekend\/ activities?",
+    "question": "Tell me about your family\/weekend activities?",
     "category": "Conversation starters",
     "created_at": "2017-11-18T14:26:14.564Z",
     "updated_at": "2017-11-18T14:26:14.564Z"
   },
   {
     "id": 429,
-    "question": "Tell me about anything you stumbled over.",
+    "question": "Tell me about anything you stumbled over recently. What did you learn?",
     "category": "Conversation starters",
     "created_at": "2017-11-18T14:26:14.566Z",
     "updated_at": "2017-11-18T14:26:14.566Z"
   },
   {
-    "id": 430,
-    "question": "Would you update me on Project X?",
-    "category": "Conversation starters",
-    "created_at": "2017-11-18T14:26:14.579Z",
-    "updated_at": "2017-11-18T14:26:14.579Z"
-  },
-  {
-    "id": 431,
-    "question": "Are you on track to meet the deadline?",
-    "category": "Conversation starters",
-    "created_at": "2017-11-18T14:26:14.581Z",
-    "updated_at": "2017-11-18T14:26:14.581Z"
-  },
-  {
-    "id": 432,
-    "question": "How is your family?",
-    "category": "Conversation starters",
-    "created_at": "2017-11-18T14:26:14.584Z",
-    "updated_at": "2017-11-18T14:26:14.584Z"
-  },
-  {
-    "id": 433,
-    "question": "How was your weekend?",
-    "category": "Conversation starters",
-    "created_at": "2017-11-18T14:26:14.586Z",
-    "updated_at": "2017-11-18T14:26:14.586Z"
-  },
-  {
-    "id": 435,
-    "question": "How\u2019s it going?",
-    "category": "Conversation starters",
-    "created_at": "2017-11-18T14:26:14.601Z",
-    "updated_at": "2017-11-18T14:26:14.601Z"
-  },
-  {
     "id": 436,
-    "question": "So, what\u2019s on your mind? (or Anything on your mind?)",
+    "question": "So, what\u2019s on your mind?",
     "category": "Conversation starters",
     "created_at": "2017-11-18T14:26:14.604Z",
     "updated_at": "2017-11-18T14:26:14.604Z"
@@ -859,13 +824,6 @@
     "category": "Conversation starters",
     "created_at": "2017-11-18T14:26:14.618Z",
     "updated_at": "2017-11-18T14:26:14.618Z"
-  },
-  {
-    "id": 438,
-    "question": "Hey, what\u2019s going on?",
-    "category": "Conversation starters",
-    "created_at": "2017-11-18T14:26:14.621Z",
-    "updated_at": "2017-11-18T14:26:14.621Z"
   },
   {
     "id": 439,
@@ -953,7 +911,7 @@
   },
   {
     "id": 452,
-    "question": "How many hours a day do you feel you\u2019re productive? How could we help you be more productive?",
+    "question": "How often do you feel you\u2019re productive each day? How could we help you feel more productive?",
     "category": "Job satisfaction",
     "created_at": "2017-11-18T14:26:14.694Z",
     "updated_at": "2017-11-18T14:26:14.694Z"
@@ -974,7 +932,7 @@
   },
   {
     "id": 455,
-    "question": "What would convince you to leave for a job somewhere else?",
+    "question": "What would convince you to leave for a role somewhere else?",
     "category": "Job satisfaction",
     "created_at": "2017-11-18T14:26:14.710Z",
     "updated_at": "2017-11-18T14:26:14.710Z"
@@ -1013,13 +971,6 @@
     "category": "Job satisfaction",
     "created_at": "2017-11-18T14:26:14.742Z",
     "updated_at": "2017-11-18T14:26:14.742Z"
-  },
-  {
-    "id": 461,
-    "question": "What would make you leave this job for another?",
-    "category": "Job satisfaction",
-    "created_at": "2017-11-18T14:26:14.744Z",
-    "updated_at": "2017-11-18T14:26:14.744Z"
   },
   {
     "id": 462,
@@ -1065,7 +1016,7 @@
   },
   {
     "id": 468,
-    "question": "How do you think of your current workload and how are you coping with them?",
+    "question": "How do you think of your current workload and how are you managin it?",
     "category": "Job satisfaction",
     "created_at": "2017-11-18T14:26:14.782Z",
     "updated_at": "2017-11-18T14:26:14.782Z"
